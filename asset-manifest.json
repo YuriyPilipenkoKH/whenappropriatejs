@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/whenappropriatejs/static/css/main.f855e6bc.css",
+    "main.js": "/whenappropriatejs/static/js/main.61141ead.js",
+    "static/media/croll.svg": "/whenappropriatejs/static/media/croll.a1a7a1a59bef7c6a867ce3d11228d701.svg",
+    "index.html": "/whenappropriatejs/index.html",
+    "main.f855e6bc.css.map": "/whenappropriatejs/static/css/main.f855e6bc.css.map",
+    "main.61141ead.js.map": "/whenappropriatejs/static/js/main.61141ead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.61141ead.js"
+  ]
+}
